@@ -1,0 +1,1 @@
+select * from finance_poc.gcs_data;
