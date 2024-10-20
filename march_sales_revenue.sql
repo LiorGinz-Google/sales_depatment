@@ -1,1 +1,1 @@
-select * from finance_poc.gcs_data;
+select * except(updated) from finance_poc.gcs_data;
